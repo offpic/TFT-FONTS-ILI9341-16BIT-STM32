@@ -1,4 +1,6 @@
-12 new fonts with 13 sizes (ili9341 spi - ili9341 8 bit - ili9341 16 bit -ssd1289 16 bit - BSP STM32F469 - ssd1963 - ili9488 - ili9486 8 bit - ili9488 spi - st7789 spi)
+12 new fonts with 13 sizes 
+
+(ili9341 spi - ili9341 8 bit - ili9341 16 bit -ssd1289 16 bit - BSP STM32F469 - ssd1963 - ili9488 - ili9486 8 bit - ili9488 spi - st7789 spi)
 
 https://www.youtube.com/watch?v=B0ezjnNNGCw
 
