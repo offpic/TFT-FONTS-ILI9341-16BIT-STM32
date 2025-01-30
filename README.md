@@ -1,3 +1,5 @@
+12 new fonts with 13 sizes
+
 ![Screenshot_2h](https://github.com/user-attachments/assets/276df7b5-25c0-47e9-9a2e-6d5e8e112dbf)
 
 <img width="475" alt="1" src="https://github.com/user-attachments/assets/aea09ce5-7b8d-4951-8651-ee686b2a107e" />
